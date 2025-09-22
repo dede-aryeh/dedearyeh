@@ -1,41 +1,49 @@
-# Hi there 👋 I'm Dede Aryeh  
-
-🎓 MS Biostatistics student | 💊 Pharmacist | 📊 Aspiring Biostatistician 
-
-<!-- in Pharma & Biotech -->  
-
-I’m passionate about using **statistical methods and data science** to improve healthcare outcomes.  
-<!--  My work bridges **clinical pharmacy, biostatistics, and informatics** — from analyzing clinical trial data  
-to building predictive models that inform better healthcare decisions. -->  
-
----
-## 🔬 Current Focus
-- Biostatistics coursework & projects
-<!-- in Pharma & Biotech -->  - (Regression, Survival Analysis, Epidemiology)
-- <!-- Statistical programming (SAS, R, Python)
-- <!-- Clinical trial data management  
-- <!-- Public health projects with real-world datasets (Nevada & beyond)  in Pharma & Biotech -->
-
----
-## 🛠️ Skills
-- **Stats & Programming:** R | SAS | Python | SQL  
-
+# Hi there 👋 I'm Dede Aryeh
 <!--
-- **Visualization:** ggplot2 | matplotlib | seaborn  
-- **Healthcare & Biostatistics:** Clinical trial design | Epidemiology methods  
-- **Tools:** Git | Docker | AWS  
+**MS Biostatistics student • Pharmacist • Software Developer**
 -->
 
+I’m an MS Biostatistics student with a background in pharmacy and software development. I’m passionate about applying statistical methods and data science to develop reproducible, data-driven solutions that improve healthcare outcomes. I’m particularly interested in clinical trials and biomedical informatics — with growing interest in predictive modeling and reproducible health data analyses.
 
 ---
+
+## 🛠️ Skills & Tools
+
+### Software development
+- **Languages & frameworks:** Clojure · Go · JavaScript (ES6+) · Angular  
+- **Backend & infra:** RESTful APIs · Database design · Unit testing · CI/CD
+
+### Biostatistics & data (learning)
+- **Languages & libraries:** SAS (base & macros) · R (tidyverse) · Python (pandas, scikit-learn)
+<!--
+- **Methods:** regression · survival analysis · experimental design -->
+
+### Tools
+- Git · Docker · SQL · PostgreSQL · AWS
+
+---
+
+## 💻 Technical Background
+Before starting my MS in Biostatistics, I worked as a **Software Development Consultant in Fintech**.  
+- Designed, built, and maintained RESTful APIs and relational databases.  
+- Developed responsive front-end interfaces using Angular.  
+- Applied computational and data-driven approaches to solve product problems and automate workflows.
+
+These engineering experiences strengthen my biostatistics work by enabling reproducible analyses and production-ready data solutions.
+
+---
+
 <!--
 ## 📌 Featured Projects
 - 🧪 [Survival Analysis Case Study](link)  
 - 📊 [Nevada Public Health Data Exploration](link)  
 - 💊 [Clinical Trial Data Simulation & Analysis](link)  
-- 📈 [Predictive Modeling for Patient Outcomes](link)  
+- 📈 [Predictive Modeling for Patient Outcomes](link)
 -->
 
 ---
+
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/dede-aryeh/) | [Email](dedearyeh200@gmail.com)  
-💡 *I’m always open to collaborations in healthcare data science & biostatistics.*  
+*Open to learning and collaborating in healthcare data science & biostatistics.*
+
+ 
