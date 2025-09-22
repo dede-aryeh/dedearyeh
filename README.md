@@ -30,10 +30,10 @@ Before starting my MS in Biostatistics, I worked as a **Software Development Con
 - Applied computational and data-driven approaches to solve product problems and automate workflows.
 
 These engineering experiences strengthen my biostatistics work by enabling reproducible analyses and production-ready data solutions.
-
+<!--
 ---
 
-<!--
+
 ## 📌 Featured Projects
 - 🧪 [Survival Analysis Case Study](link)  
 - 📊 [Nevada Public Health Data Exploration](link)  
