@@ -3,7 +3,7 @@
 **MS Biostatistics student • Pharmacist • Software Developer**
 -->
 
-I’m an MS Biostatistics student with a background in pharmacy and software development. I’m passionate about applying statistical methods and data science to develop reproducible, data-driven solutions that improve healthcare outcomes. I’m particularly interested in clinical trials and biomedical informatics — with growing interest in predictive modeling and reproducible health data analyses.
+I’m an MS Biostatistics student with a background in pharmacy and software development. I’m passionate about applying statistical methods and data science to develop reproducible, data-driven solutions that improve healthcare outcomes. My main interests lie in clinical trials and biomedical informatics, and I’m excited to develop skills such as predictive modeling and reproducible health data analysis.
 
 ---
 
